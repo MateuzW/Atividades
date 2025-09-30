@@ -1,2 +1,2 @@
 # Atividades
-Aulas práticas
+Olá, este é o meu primeiro repositório no GitHub
